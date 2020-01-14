@@ -1,0 +1,11 @@
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\obj\Debug\netcoreapp2.1\ClassAndContructor.csprojAssemblyReference.cache
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\obj\Debug\netcoreapp2.1\ClassAndContructor.csproj.CoreCompileInputs.cache
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\obj\Debug\netcoreapp2.1\ClassAndContructor.AssemblyInfoInputs.cache
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\obj\Debug\netcoreapp2.1\ClassAndContructor.AssemblyInfo.cs
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\bin\Debug\netcoreapp2.1\ClassAndContructor.deps.json
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\bin\Debug\netcoreapp2.1\ClassAndContructor.runtimeconfig.json
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\bin\Debug\netcoreapp2.1\ClassAndContructor.runtimeconfig.dev.json
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\bin\Debug\netcoreapp2.1\ClassAndContructor.dll
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\bin\Debug\netcoreapp2.1\ClassAndContructor.pdb
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\obj\Debug\netcoreapp2.1\ClassAndContructor.dll
+D:\NewDownLoad\Javascrip_VSCode\NewDirectory\DotNet\ConsoleStep_01\ClassAndContructor\obj\Debug\netcoreapp2.1\ClassAndContructor.pdb
